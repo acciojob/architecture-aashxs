@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body{
+    width: 1100px;
+}
+
+#ab {
+    width: 200px;
+}
+#cd{
+    width: 200px;
+}
+#bc{
+    width: 600px;
+}
