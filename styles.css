@@ -11,7 +11,7 @@ body{
 }
 #bc{
    
-	 .imageContainer {
+	 .imagecontainer {
             width: 300px;
             height: auto;
             border: 2px solid #000;
@@ -19,7 +19,7 @@ body{
             text-align: center;
         }
 
-        .imageContainer img {
+        .imagecontainer img {
             max-width: 100%;
             height: auto;
         }
