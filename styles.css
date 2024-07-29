@@ -3,10 +3,10 @@ body{
     width: 1100px;
 }
    .imagecontainer {
-       width: 100px;
+       width: 500px;
 }
 .imagecontainer img {
-       width: 100px;
+       width: 500px;
 }
 
 #ab {
@@ -16,4 +16,6 @@ body{
     width: 200px;
 }
 #bc{
+	width :600px;
+}
    
