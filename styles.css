@@ -10,5 +10,16 @@ body{
     width: 200px;
 }
 #bc{
-    width: 600px;
-}
+   
+	 .imageContainer {
+            width: 300px;
+            height: auto;
+            border: 2px solid #000;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .imageContainer img {
+            max-width: 100%;
+            height: auto;
+        }
